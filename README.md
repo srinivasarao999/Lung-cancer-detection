@@ -8,4 +8,5 @@ Features:
 1-Classification of CT images into three categories: benign, malignant, and normal.
 
 2-Segmentation of malignant images to localize affected regions using U-Net.
+
 3-Comprehensive pipeline combining classification and localization for medical imaging.
